@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/clitest/dist/'
+  publicPath: '/kevinhes.github.io/clitest/dist/'
 }
